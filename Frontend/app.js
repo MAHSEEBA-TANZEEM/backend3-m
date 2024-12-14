@@ -17,7 +17,7 @@ function PersonMaker(name, age) {
 }
 
 // new operator Constructors
-function Person(name, age) {
+function Person1(name, age) {
   this.name = name;
   this.age = age;
 };
